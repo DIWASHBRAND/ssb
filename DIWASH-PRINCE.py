@@ -1,4 +1,4 @@
-#PRINCE×AFTAB
+#PRINCE×DIWASH
 #BRAND TOOLS
 #IF YOU LOVE YOUR DATA THEN DON'T TRY TO DECODE
 #NEPAL
@@ -83,11 +83,11 @@ B = '\033[96;1m'
 r = '\033[1;32m'
 head = {'Host': 'adsmanager.facebook.com', 'sec-ch-ua': '"Chromium";v="107", "Not=A?Brand";v="24"', 'viewport-width': '980'}
 logo =                                          """           
-\033[92;1m➤➤⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃ Pʀɪɴᴄᴇ Bʀᴀɴᴅ ⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃➤➤
+\033[92;1m➤➤⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃ DIWASH×Pʀɪɴᴄᴇ Bʀᴀɴᴅ ⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃➤➤
 \33[97;1m██████  ██ ██     ██  █████  ███████ ██   ██ 
-\33[97;1m██   ██ ██ ██     ██ ██   ██ ██      ██   ██ 
-\33[97;1m█  ██ ██ ██  █  ██ ███████ ███████ ███████ 
-\33[97;1m██   ██ ██ ██ ███ ██ ██   ██      ██ ██   ██ 
+\33[96;1m██   ██ ██ ██     ██ ██   ██ ██      ██   ██ 
+\33[93;1m█■   ██ ██ ██  █  ██ ███████ ███████ ███████ 
+\33[94;1m██   ██ ██ ██ ███ ██ ██   ██      ██ ██   ██ 
 \33[97;1m██████  ██  ███ ███  ██   ██ ███████ ██   ██                                                                           
 \033[92;1m➤➤⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃ DIWASH × PRINCE ⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃➤➤
 \033[33m【✪】⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃➤
@@ -115,11 +115,11 @@ def result(OKs,cps):
 def BRAND():   
     os.system('clear')
     print(logo)
-    print(f'\033[1;32m[1]\033[1;32mFile Crack')
-    print(f'\033[1;32m[2]\033[1;91mCOMING SOON...')
+    print(f'\033[1;32m[1]\033[1;96mFile Crack ( 100% working)')
+    print(f'\033[1;32m[2]\033[1;41mCOMING SOON...')
     print(f'\033[1;32m[3]\33[1;96mRandom Crack ')
     print(f'\033[1;32m[4]\033[1;32mCreate File')
-    print(f'\033[1;32m[5]\033[93mLogin Tool')
+    print(f'\033[1;32m[5]\033[94mLogin Tool')
     print(f'\033[1;32m[6]\033[1;91mREMOVE COOKIE')
     print(f'\033[1;32m[7]\033[1;91mRemove Trash Files ')
     print(f'\033[1;32m[8]\033[1;32mSeparate Ids')
